@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "releaseDate": "2025-01-01",
+  "downloadUrl": "https://github.com/ShayRed/m2-toolTest/releases/download/v1.0.0/",
+  "files": [
+    "M2-Tool.exe",
+    "M2-Tool.exe.config",
+    "Updater.exe"
+  ],
+  "changelog": "🆕 VERSION 1.0.0 - Initial Release\\n\\n✨ NEUE FEATURES\\n• Initiale Version des M2 MultiTools\\n• Define Scanner\\n• Locale Cleaner\\n• Integrator\\n\\n📝 HINWEISE\\n• Bitte passe die GitHub-URLs in App.config und version.json an dein Repository an"
+}
+
